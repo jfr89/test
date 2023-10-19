@@ -13,7 +13,7 @@ jobs:
     - name: Checkout HolaMundo Repo
       uses: actions/checkout@v2
       with:
-        repository: jfr89/helloworld
+        repository: jfr89/holamundo
         ref: master
         
     - name: Set up Python
